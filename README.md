@@ -22,7 +22,7 @@ Welcome to the Brainwave Website! Dive into a realm of creativity and innovation
 <h4>Follow these steps to set up the project locally:</h4>
 - Clone the repository:<br/>
 ▶ git clone https://github.com/Rupak-25/Brainwave.git<br/>
-▶ cd brainwave-website<br/>
+▶ cd Brainwave<br/>
 
 
 <h1>Install the dependencies:</h1>
